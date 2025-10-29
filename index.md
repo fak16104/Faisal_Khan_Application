@@ -1,6 +1,7 @@
 ---
 layout: home
-title: Faisal Khan's Professional Portfolio
+title: "Home"
+permalink: /
 ---
 
 Welcome to my portfolio.
