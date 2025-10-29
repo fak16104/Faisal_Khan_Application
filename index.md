@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Home"
-permalink: /home/ /
+permalink: /
 ---
 
 Welcome to my portfolio.
