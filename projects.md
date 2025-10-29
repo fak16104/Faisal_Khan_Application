@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: "Project Highlgihts: Physics and Beyond"
