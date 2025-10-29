@@ -18,3 +18,10 @@ I have gained hands-on experience through academic research projects that focus 
 - Research Project 2: Lithium MOT Laser - work with the lithium oven to prepare the laser for deployment as an outreach project to underserved high schools in Connecticut.
 
 Feel free to explore my portfolio and reach out for collaboration or opportunities.
+
+---
+### Contact Me
+
+**Email:** [faisal.khan@uconn.edu](mailto:faisal.khan@uconn.edu)
+**Phone:** (860) 123-4567
+**Location:** South Windsor, CT
