@@ -5,6 +5,7 @@ permalink: /projects/
 ---
 
 As part of my undergraduate journey, I’ve had the opportunity to work on several impactful projects. Below are some highlights:
+
 ##1. Research Project 1 - Dynamical Manifestations of MAny-body Quantum Chaos
 
 In collaboration with Professor Laa F. Santos and postdoc Isaias Vallejo over a summer and one semester, I worked on experiencng theoretical phyics in the quantum realm. I learned how to code in Fortran, plot in Grace, run Linux and overall deepen my understanding of quantum physics and random matrix theory.
