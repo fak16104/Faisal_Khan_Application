@@ -4,8 +4,9 @@ description: "As part of my undergraduate journey, I have had the opportunity to
 theme: minima
 
 header_pages:
- - index.md
+ - blog.md
  - projects.md
- - blod.md
+ - index.md
+
 
 
