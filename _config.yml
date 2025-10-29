@@ -1,12 +1,16 @@
 title: Faisal Khan's Professional Portfolio
 author: Faisal Khan
-description: "Contact me at |Email:faisal.khan@uconn.edu|Phone:860-123-4567|Location:South Windsor, CT"
+description: >
+<strong>Contact me - Email:</strong>
+<a href="mailto:faisal.khan@uconn.edu">faisal.khan@uconn.edu</a>  
+<a Phone: 860-123-4567 | Location: South Windsor, CT </strong>
 theme: minima
 
 header_pages:
  - blog.md
  - projects.md
  - index.md
+
 
 
 
