@@ -7,9 +7,8 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# Home
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
 
 </header>
 
@@ -18,7 +17,7 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Finish
+## Faisal Khan
 
 _Congratulations friend, you've completed this course!_
 
