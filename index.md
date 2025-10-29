@@ -20,10 +20,4 @@ I have gained hands-on experience through academic research projects that focus 
 Feel free to explore my portfolio and reach out for collaboration or opportunities.
 
 ---
-### Contact Me
 
-**Email:** [faisal.khan@uconn.edu](mailto:faisal.khan@uconn.edu)
-
-**Phone:** (860) 123-4567
-
-**Location:** South Windsor, CT
