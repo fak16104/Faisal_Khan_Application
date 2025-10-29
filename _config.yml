@@ -1,12 +1,13 @@
 title: Faisal Khan's Professional Portfolio
 author: Faisal Khan
-description: "As part of my undergraduate journey, I have had the opportunity to work on several impactful projects. Below are some highlgihts:"
+description: "As part of my undergraduate journey, I have had the opportunity to work on several impactful projects. Contact me at |Email:faisal.khan@uconn.edu|Phone:860-123-4567|Location:South Windsor, CT"
 theme: minima
 
 header_pages:
  - blog.md
  - projects.md
  - index.md
+
 
 
 
