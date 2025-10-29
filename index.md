@@ -20,4 +20,3 @@ I have gained hands-on experience through academic research projects that focus 
 Feel free to explore my portfolio and reach out for collaboration or opportunities.
 
 ---
-
